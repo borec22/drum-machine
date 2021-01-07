@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.8f43cfbd.chunk.css",
+    "main.js": "/drum-machine/static/js/main.8de5c2bf.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.8de5c2bf.chunk.js.map",
+    "runtime-main.js": "/drum-machine/static/js/runtime-main.1dc81d3f.js",
+    "runtime-main.js.map": "/drum-machine/static/js/runtime-main.1dc81d3f.js.map",
+    "static/js/2.fa5620db.chunk.js": "/drum-machine/static/js/2.fa5620db.chunk.js",
+    "static/js/2.fa5620db.chunk.js.map": "/drum-machine/static/js/2.fa5620db.chunk.js.map",
+    "static/js/3.89425ac4.chunk.js": "/drum-machine/static/js/3.89425ac4.chunk.js",
+    "static/js/3.89425ac4.chunk.js.map": "/drum-machine/static/js/3.89425ac4.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "static/css/main.8f43cfbd.chunk.css.map": "/drum-machine/static/css/main.8f43cfbd.chunk.css.map",
+    "static/js/2.fa5620db.chunk.js.LICENSE.txt": "/drum-machine/static/js/2.fa5620db.chunk.js.LICENSE.txt",
+    "static/media/Chord_1.91f17460.mp3": "/drum-machine/static/media/Chord_1.91f17460.mp3",
+    "static/media/Chord_2.ce2259f6.mp3": "/drum-machine/static/media/Chord_2.ce2259f6.mp3",
+    "static/media/Chord_3.62c6490c.mp3": "/drum-machine/static/media/Chord_3.62c6490c.mp3",
+    "static/media/Chord_4.0e4d4f33.mp3": "/drum-machine/static/media/Chord_4.0e4d4f33.mp3",
+    "static/media/Chord_5.7d175092.mp3": "/drum-machine/static/media/Chord_5.7d175092.mp3",
+    "static/media/Chord_6.5d3b3f7f.mp3": "/drum-machine/static/media/Chord_6.5d3b3f7f.mp3",
+    "static/media/Chord_7.248ea259.mp3": "/drum-machine/static/media/Chord_7.248ea259.mp3",
+    "static/media/Chord_8.0b20ce26.mp3": "/drum-machine/static/media/Chord_8.0b20ce26.mp3",
+    "static/media/Chord_9.5f15b714.mp3": "/drum-machine/static/media/Chord_9.5f15b714.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc81d3f.js",
+    "static/js/2.fa5620db.chunk.js",
+    "static/css/main.8f43cfbd.chunk.css",
+    "static/js/main.8de5c2bf.chunk.js"
+  ]
+}
